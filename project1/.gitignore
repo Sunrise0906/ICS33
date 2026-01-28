@@ -1,0 +1,9 @@
+/Lib
+/Scripts
+/pyvenv.cfg
+/.idea
+__pycache__
+*.bundle
+/venv
+*.coverage
+.DS_Store
